@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cryptonacarteira.github.io/dashboard_analizer/sitemap.xml
